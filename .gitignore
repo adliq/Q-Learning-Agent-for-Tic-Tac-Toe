@@ -1,0 +1,52 @@
+# Build directories
+build/
+build-*/
+cmake-build-*/
+out/
+
+# CMake-generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+Testing/
+install_manifest.txt
+compile_commands.json
+
+# Compiled objects and libraries
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+student-tests
+xo-demo
+a.out
+
+# Compiler and debugger files
+*.pdb
+*.ilk
+*.idb
+*.pch
+
+# Generated submission archive
+submission.zip
+
+# Local IDE settings
+.vs/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary editor files
+*.swp
+*.swo
+*~
