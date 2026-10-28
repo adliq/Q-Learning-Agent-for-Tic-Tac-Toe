@@ -234,6 +234,7 @@ Some tests involve randomized gameplay.
 
 ## Acknowledgments
 
-The source credits [Saman Khamesian’s Tic-Tac-Toe base states](https://github.com/SamanKhamesian/Tic-Tac-Toe/blob/master/Source/base_matrix.txt) for the initial board-state table.
+This project was build for ECE 3514, Data Structures and Algorithms at Virginia Tech
+[Saman Khamesian’s Tic-Tac-Toe base states](https://github.com/SamanKhamesian/Tic-Tac-Toe/blob/master/Source/base_matrix.txt) for the initial board-state table.
 
 The bundled Catch2 header contains its copyright and license information.
